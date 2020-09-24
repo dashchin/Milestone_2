@@ -3,11 +3,11 @@ title: "Milestone 2"
 author: "Dash Chin"
 date: "9/24/2020"
 output:
-  html_document: default
   pdf_document: default
+  html_document: default
 ---
 
-Github Repo Link: 
+Github Repo Link: https://github.com/dashchin/Milestone_2.git
 
 The first GOV 50 final project I looked at is called "Behind Billboard: Exploring the Audio Features of Popular Music" by Parker Mas. I chose this project because it did extensive data gathering (American pop music since 1968) and is tangentially related to projects I have in mind right now (this project is different, however, because it 
 is looking at features of songs I don't intend to explore). I think this project models general change very well. The author made several predictive models not just in 
